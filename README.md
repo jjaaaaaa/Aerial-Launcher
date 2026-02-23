@@ -1,3 +1,51 @@
+## MacOS Support:
+
+This fork introduces MacOS suppor for Aerial Launcher
+
+it was vibecoded with Codex. DO NOT expect updates or support
+
+
+Does not work:
+- Launching the game (there's no fortnite macos LOL)
+- "System Tray" feature.
+
+You can:
+- Leave issues so other users can see what does not work
+- Submit pull requests
+
+
+## Download MacOS:
+
+Download for MacOS from the releases page of this github or download the source from this github from the "macos" branch
+
+- Download: Apple Silicon
+- Download: Intel
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+
+The rest of the readme is a copy and paste from the original one
+
+.
+
+.
+
+.
+
 > **NOTE:** Currently in development.
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Ciensprog/Aerial-Launcher/total?label=All%20Release%20Downloads) ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/Ciensprog/Aerial-Launcher/latest/total?label=Latest%20Release%20Downloads)
