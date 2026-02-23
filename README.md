@@ -18,7 +18,7 @@ You can:
 
 Download for MacOS from the releases page of this github or download the source from this github from the "macos" branch
 
-- Download: [Apple Silicon](https://github.com/jjaaaaaa/Aerial-Launcher/releases/download/Build-1.12.2/Aerial-Launcher-macos-silicon-arm64-1.12.2.zip)
-- Download: [Intel](https://github.com/jjaaaaaa/Aerial-Launcher/releases/download/Build-1.12.2/Aerial-Launcher-macos-intel-x64-1.12.2.zip)
+- Download: [Apple Silicon](https://github.com/jjaaaaaa/Aerial-Launcher-macos/releases/download/Build-1.12.2/Aerial-Launcher-macos-silicon-arm64-1.12.2.zip)
+- Download: [Intel](https://github.com/jjaaaaaa/Aerial-Launcher-macos/releases/download/Build-1.12.2/Aerial-Launcher-macos-intel-x64-1.12.2.zip)
 
 *...btw, apple silicon build has not been tested, should work anyway. Good luck with it*
